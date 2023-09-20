@@ -1,8 +1,8 @@
-title: M. Shandilya
+title: "mshandilya's blogs"
 author: Mrigankashekhar Shandilya
 url: https://mshandilya.github.io/ # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+  This is a blog by M. Shandilya, an undergraduate researcher at IIT Gandhinagar.
 
 permalink: /:slug
 
